@@ -1,9 +1,8 @@
 {
   "name": "Inlets Reverse Proxy",
   "description": "Using inlets as a service tunnel and reverse proxy",
-  "repository": "https://github.com/locmai0808/inlets-heroku.git",
-  "website": "https://github.com/locmai0808/inlets-heroku",
-  "logo": "https://avatars1.githubusercontent.com/u/18728001?s=460&u=94ccbaa9ae7336b735a343ddb0f05c293f4db8c8&v=4",
+  "repository": "https://github.com/2Peti/inlets-heroku.git",
+  "website": "https://github.com/2Peti/inlets-heroku",
   "env": {
     "TOKEN": {
       "description": "Your secret password (token). Ideally should be a random string.",
