@@ -6,7 +6,7 @@ Alternative of `ngrok` or `localtunnel`. Since it can be deployed to **heroku**,
 
 ## Setup the Heroku App
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/locmai0808/inlets-heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/2Peti/inlets-heroku/tree/master)
 
 ## How to use
 
