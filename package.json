@@ -4,13 +4,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node server.js"
+    "start": "chmod a+x ./init.sh && ./init.sh && node server.js"
   },
   "dependencies": {
     "express": "4.13.3"
   },
-  "repository": "https://github.com/2Peti/inlets-heroku.git",
-  "website": "https://github.com/2Peti/inlets-heroku",
   "env": {
     "TOKEN": {
       "description": "Your secret password (token). Ideally should be a random string.",
