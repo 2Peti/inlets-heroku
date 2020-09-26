@@ -1,6 +1,14 @@
 {
   "name": "Inlets Reverse Proxy",
   "description": "Using inlets as a service tunnel and reverse proxy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
   "repository": "https://github.com/2Peti/inlets-heroku.git",
   "website": "https://github.com/2Peti/inlets-heroku",
   "env": {
@@ -15,5 +23,6 @@
       "size": "free"
     }
   },
-  "buildpacks": [{"url": "https://github.com/maximkulkin/heroku-buildpack-dummy.git"}]
+  "author": "Kathryn Hodge",
+  "license": "ISC"
 }

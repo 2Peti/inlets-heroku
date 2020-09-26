@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod a+x ./inlets
-./inlets server --port=$PORT --token="$TOKEN"
+./inlets server --port=443 --token="$TOKEN"
+node server.js
