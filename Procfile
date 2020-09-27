@@ -1,1 +1,1 @@
-web: chmod a+x ./init.sh && ./init.sh && node server.js
+web: chmod a+x ./init.sh && ./init.sh
